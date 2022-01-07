@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 body {
-    background: url(../img/photo-1486523834155-1dabf4edaa64.avif) no-repeat, center/cover;
-}
+    background: url(../img/photo-1641483621901-bee7e90fce68.avif) no-repeat center/cover;
+    height: 100vh;
+}   
 img {
     width: 50%;
 }
